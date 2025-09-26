@@ -13,10 +13,10 @@ create a new EADME.md file, ctrl + s
 .git commit -m 'message'
 # Regular Process
 .git add .
-.git commoi -m 'message'
+.git commit -m 'message'
 .git push
 # others instruction of modify file
 .git reset --soft HEAD~ #回到上一動
 .git reset --hard [version.number]
 .git diff [version.number] -- [filename]
-.git checkout [version.number] -- [filname]
+.git checkout [version.number] -- [filnam
